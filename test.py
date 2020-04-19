@@ -39,4 +39,5 @@ def setup():
     # myPlayer.player_class = role
     print("You're a " + role + " now!")
 
-setup()
+
+### Testing
